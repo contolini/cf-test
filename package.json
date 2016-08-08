@@ -16,6 +16,9 @@
   "keywords": [
     "09a8sdf098sd"
   ],
+  "scripts": {
+    "start": "http-server dist/"
+  },
   "dependencies": {
     "capital-framework": "github:cfpb/capital-framework#combine-deps",
     "html5shiv": "3.7.3"
